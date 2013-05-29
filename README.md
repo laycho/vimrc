@@ -21,7 +21,7 @@ Installation
 -------------
 1. Put all thing into ~/.vim
     
-    git clone https://github.com/raincole/vimrc.git .vim --recursive
+    git clone https://github.com/laycho/vimrc.git .vim --recursive
 
 2. Link .vimrc to ~/.vim/vimrc
 
